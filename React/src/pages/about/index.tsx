@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { cardData, Data2 } from './data'
 import Button from '../../components/buttons'
 import Profile from '../../components/profile'

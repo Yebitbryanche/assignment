@@ -136,8 +136,8 @@ function Dashboard() {
                 outerRadius={100}
                 label
               >
-                {pieData.map((entry, index) => (
-                  <Cell key={index} fill={COLORS[index % COLORS.length]} />
+                {pieData.map(() => (
+                  <Cell fill={COLORS[COLORS.length]} />
                 ))}
               </Pie>
               <Tooltip />

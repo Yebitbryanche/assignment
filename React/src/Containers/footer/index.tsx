@@ -1,4 +1,3 @@
-import React from 'react';
 import { type NavProps } from '../nav';
 import images from '../../Types/images';
 import { Link } from 'react-router-dom';

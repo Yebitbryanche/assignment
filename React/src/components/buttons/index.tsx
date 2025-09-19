@@ -1,4 +1,3 @@
-import React from 'react'
 interface ButtonProps{
     icon?:any;
     title:string;
