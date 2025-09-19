@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme{
+    --color-active: #FF7426;
+    --color-background: #E7FAFE;
+    --color-breakfast:#70824640;
+    --color-vegan:#6CC63F40;
+    --color-meat:#CC261B40;
+    --color-dessert:#F09E0040;
+    --color-lunch:#00000020;
+}
